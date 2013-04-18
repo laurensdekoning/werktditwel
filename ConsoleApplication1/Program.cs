@@ -13,6 +13,7 @@ namespace ConsoleApplication1
             public string Name { get; set; }
             public int Age { get; set; }
 
+            // even kijken wat dit doet
             // Constructor that takes individual property values
             public Dog(string name, int age)
             {
